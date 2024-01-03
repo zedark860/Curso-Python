@@ -1,0 +1,5 @@
+Quantidade alunos_organicos é: 226
+Quantidade alunos_anuncio é: 274
+Quantidade hashtag_site_org é: 73
+Quantidade hashtag_yt_org é: 155
+Quantidade hashtag_igfb_org é: 24
